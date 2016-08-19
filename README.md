@@ -18,8 +18,8 @@ Integrates your [Modern Honeypot Network Server](https://github.com/threatstream
 1. ```[last_day]``` [Attacks over last 24 hours](https://ryankozak.com/honeypots/last-24-hours/)
 2. ```[top_attackers]``` [Top Attacking IP Addresses](https://ryankozak.com/honeypots/)
 3. ```[honeypot hp="glastopf"]``` [Glastopf Honeypot Output](https://ryankozak.com/honeypots/glastopf/)
-4. ```[honeypot hp="dionaea"]``` [Dionaea Honeypot Output](https://ryankozak.com/honeypots/glastopf/)
-5. ```[honeypot hp="wordpot"]``` [Wordpot Honeypot Output](https://ryankozak.com/honeypots/glastopf/)
+4. ```[honeypot hp="dionaea"]``` [Dionaea Honeypot Output](https://ryankozak.com/honeypots/dionaea/)
+5. ```[honeypot hp="wordpot"]``` [Wordpot Honeypot Output](https://ryankozak.com/honeypots/wordpot/)
 6. ```[sessions]``` [Sessions by Attacking IP, must contain GET souce_ip](https://ryankozak.com/attackers-sessions/?source_ip=89.163.140.254) 
 
 

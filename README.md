@@ -24,5 +24,5 @@ Integrates your [Modern Honeypot Network Server](https://github.com/threatstream
 
 
 ## Contributions
-This plugin is not on the Wordpress Plugin Directory. I developed it to meed the needs of my blog, and open sourced it as it may be a quick start for other developers looking to do something similar.
+This plugin is not on the Wordpress Plugin Directory. I developed it to meet the needs of my blog, and open sourced it as it may be a quick start for other developers looking to do something similar.
 If you'd like to contribute additional shortcodes or implement WP-Admin functionality then please submit a pull request and I'll potentially merge it.
